@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1463059103 source:f:\study\cse\cse\igraphics\digital watch\digital watch.cpp
+	"iGraphics.h"
+	<stdio.h>
+	<time.h>
+
+1462108168 f:\study\cse\cse\igraphics\digital watch\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+
+1463059103 source:d:\study\l1t1\cse\igraphics\digital watch\digital watch.cpp
+	"iGraphics.h"
+	<stdio.h>
+	<time.h>
+
+1462108168 d:\study\l1t1\cse\igraphics\digital watch\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+
